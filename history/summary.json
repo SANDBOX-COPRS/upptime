@@ -22,9 +22,9 @@
     "url": "https://artifactory.coprs.esa-copernicus.eu",
     "icon": "https://favicons.githubusercontent.com/artifactory.coprs.esa-copernicus.eu",
     "slug": "artifactory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 685,
     "timeMonth": 733,
     "timeYear": 734,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-29": 0
+    }
   },
   {
     "name": "SonarQube",
     "url": "https://sonarqube.coprs.esa-copernicus.eu",
     "icon": "https://favicons.githubusercontent.com/sonarqube.coprs.esa-copernicus.eu",
     "slug": "sonar-qube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +53,18 @@
     "timeWeek": 681,
     "timeMonth": 737,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-29": 0
+    }
   },
   {
     "name": "Vault",
     "url": "https://vault.coprs.esa-copernicus.eu",
     "icon": "https://favicons.githubusercontent.com/vault.coprs.esa-copernicus.eu",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 714,
     "timeMonth": 690,
     "timeYear": 679,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-29": 0
+    }
   },
   {
     "name": "Squash",
@@ -77,11 +83,11 @@
     "icon": "https://favicons.githubusercontent.com/squash.coprs.esa-copernicus.eu",
     "slug": "squash",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.20%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.36%",
     "time": 856,
     "timeDay": 584,
     "timeWeek": 805,
