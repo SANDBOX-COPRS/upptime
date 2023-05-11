@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 716,
-    "timeDay": 586,
-    "timeWeek": 542,
-    "timeMonth": 656,
-    "timeYear": 713,
+    "timeDay": 521,
+    "timeWeek": 529,
+    "timeMonth": 659,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2023-01-25": 17,
       "2023-01-11": 106,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 712,
-    "timeDay": 707,
-    "timeWeek": 544,
-    "timeMonth": 636,
-    "timeYear": 703,
+    "time": 711,
+    "timeDay": 462,
+    "timeWeek": 545,
+    "timeMonth": 633,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2022-05-30": 491,
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 574,
-    "timeDay": 607,
-    "timeWeek": 433,
-    "timeMonth": 561,
+    "timeDay": 352,
+    "timeWeek": 432,
+    "timeMonth": 560,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.coprs.esa-copernicus.eu.ico",
     "slug": "vault",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 668,
-    "timeDay": 699,
-    "timeWeek": 504,
-    "timeMonth": 613,
-    "timeYear": 667,
+    "time": 667,
+    "timeDay": 420,
+    "timeWeek": 499,
+    "timeMonth": 612,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2022-05-30": 491,
       "2022-05-29": 514
@@ -96,14 +96,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.87%",
     "time": 812,
-    "timeDay": 769,
-    "timeWeek": 641,
-    "timeMonth": 760,
-    "timeYear": 806,
-    "dailyMinutesDown": {
-      "2022-05-11": 688
-    }
+    "timeDay": 535,
+    "timeWeek": 629,
+    "timeMonth": 761,
+    "timeYear": 805,
+    "dailyMinutesDown": {}
   }
 ]
