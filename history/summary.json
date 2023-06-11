@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 713,
-    "timeDay": 450,
-    "timeWeek": 671,
+    "time": 712,
+    "timeDay": 522,
+    "timeWeek": 616,
     "timeMonth": 663,
     "timeYear": 713,
     "dailyMinutesDown": {
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.coprs.esa-copernicus.eu.ico",
     "slug": "sonar-qube",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 479,
-    "timeWeek": 590,
+    "time": 706,
+    "timeDay": 478,
+    "timeWeek": 538,
     "timeMonth": 642,
-    "timeYear": 698,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 371,
-    "timeWeek": 457,
-    "timeMonth": 525,
-    "timeYear": 570,
+    "timeDay": 393,
+    "timeWeek": 424,
+    "timeMonth": 526,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
-    "timeDay": 439,
-    "timeWeek": 590,
-    "timeMonth": 630,
+    "timeDay": 624,
+    "timeWeek": 563,
+    "timeMonth": 637,
     "timeYear": 665,
     "dailyMinutesDown": {}
   },
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 574,
-    "timeWeek": 677,
-    "timeMonth": 708,
-    "timeYear": 799,
+    "time": 804,
+    "timeDay": 576,
+    "timeWeek": 619,
+    "timeMonth": 709,
+    "timeYear": 798,
     "dailyMinutesDown": {}
   }
 ]
