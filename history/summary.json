@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 710,
-    "timeDay": 640,
-    "timeWeek": 679,
-    "timeMonth": 697,
-    "timeYear": 714,
+    "timeDay": 646,
+    "timeWeek": 667,
+    "timeMonth": 703,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2023-01-25": 17,
       "2023-01-11": 106,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 713,
-    "timeDay": 654,
-    "timeWeek": 707,
-    "timeMonth": 815,
-    "timeYear": 708,
+    "timeDay": 707,
+    "timeWeek": 701,
+    "timeMonth": 823,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 1923,
-    "timeWeek": 744,
-    "timeMonth": 590,
-    "timeYear": 565,
+    "timeDay": 539,
+    "timeWeek": 741,
+    "timeMonth": 595,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -67,15 +67,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.coprs.esa-copernicus.eu.ico",
     "slug": "vault",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 726,
-    "timeWeek": 707,
-    "timeMonth": 671,
+    "time": 665,
+    "timeDay": 793,
+    "timeWeek": 733,
+    "timeMonth": 682,
     "timeYear": 658,
     "dailyMinutesDown": {}
   },
@@ -92,8 +92,8 @@
     "uptimeYear": "100.00%",
     "time": 803,
     "timeDay": 924,
-    "timeWeek": 834,
-    "timeMonth": 806,
+    "timeWeek": 864,
+    "timeMonth": 815,
     "timeYear": 785,
     "dailyMinutesDown": {}
   }
