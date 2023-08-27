@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/artifactory.coprs.esa-copernicus.eu.ico",
     "slug": "artifactory",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 708,
-    "timeDay": 527,
-    "timeWeek": 595,
-    "timeMonth": 695,
-    "timeYear": 713,
+    "timeDay": 908,
+    "timeWeek": 649,
+    "timeMonth": 706,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2023-01-25": 17,
       "2023-01-11": 106,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 705,
-    "timeDay": 450,
-    "timeWeek": 612,
-    "timeMonth": 673,
-    "timeYear": 704,
+    "timeDay": 885,
+    "timeWeek": 671,
+    "timeMonth": 687,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 574,
-    "timeDay": 547,
-    "timeWeek": 835,
-    "timeMonth": 668,
-    "timeYear": 567,
+    "timeDay": 635,
+    "timeWeek": 857,
+    "timeMonth": 676,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 541,
-    "timeWeek": 615,
-    "timeMonth": 690,
-    "timeYear": 656,
+    "time": 666,
+    "timeDay": 774,
+    "timeWeek": 656,
+    "timeMonth": 694,
+    "timeYear": 657,
     "dailyMinutesDown": {}
   },
   {
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 804,
-    "timeDay": 748,
-    "timeWeek": 755,
-    "timeMonth": 811,
-    "timeYear": 780,
+    "timeDay": 956,
+    "timeWeek": 786,
+    "timeMonth": 818,
+    "timeYear": 781,
     "dailyMinutesDown": {}
   }
 ]
