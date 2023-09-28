@@ -4,9 +4,9 @@
     "url": "https://artifactory.coprs.esa-copernicus.eu",
     "icon": "https://icons.duckduckgo.com/ip3/artifactory.coprs.esa-copernicus.eu.ico",
     "slug": "artifactory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 697,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2023-09-28": 0,
       "2023-09-04": 102,
       "2023-01-25": 17,
       "2023-01-11": 106,
@@ -27,9 +28,9 @@
     "url": "https://sonarqube.coprs.esa-copernicus.eu",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.coprs.esa-copernicus.eu.ico",
     "slug": "sonar-qube",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,6 +40,7 @@
     "timeMonth": 795,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2023-09-28": 0,
       "2023-01-25": 16
     }
   },
@@ -47,9 +49,9 @@
     "url": "https://sonarqube-dev.coprs.esa-copernicus.eu",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube-dev.coprs.esa-copernicus.eu.ico",
     "slug": "sonar-qube-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,6 +61,7 @@
     "timeMonth": 594,
     "timeYear": 576,
     "dailyMinutesDown": {
+      "2023-09-28": 0,
       "2023-01-25": 16
     }
   },
@@ -67,9 +70,9 @@
     "url": "https://vault.coprs.esa-copernicus.eu",
     "icon": "https://icons.duckduckgo.com/ip3/vault.coprs.esa-copernicus.eu.ico",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -78,7 +81,9 @@
     "timeWeek": 687,
     "timeMonth": 728,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-28": 0
+    }
   },
   {
     "name": "Squash",
