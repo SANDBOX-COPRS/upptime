@@ -85,9 +85,9 @@
     "url": "https://squash.coprs.esa-copernicus.eu/squash",
     "icon": "https://icons.duckduckgo.com/ip3/squash.coprs.esa-copernicus.eu.ico",
     "slug": "squash",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,6 +96,8 @@
     "timeWeek": 745,
     "timeMonth": 765,
     "timeYear": 786,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-10": 0
+    }
   }
 ]
