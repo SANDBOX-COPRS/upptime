@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 722,
-    "timeDay": 662,
-    "timeWeek": 593,
-    "timeMonth": 895,
+    "timeDay": 560,
+    "timeWeek": 608,
+    "timeMonth": 900,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2023-09-04": 102,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 726,
-    "timeDay": 578,
-    "timeWeek": 764,
-    "timeMonth": 914,
-    "timeYear": 726,
+    "timeDay": 716,
+    "timeWeek": 768,
+    "timeMonth": 919,
+    "timeYear": 727,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 568,
-    "timeWeek": 626,
-    "timeMonth": 653,
-    "timeYear": 579,
+    "time": 579,
+    "timeDay": 621,
+    "timeWeek": 621,
+    "timeMonth": 661,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 1038,
-    "timeWeek": 1137,
-    "timeMonth": 1306,
-    "timeYear": 738,
+    "time": 721,
+    "timeDay": 1237,
+    "timeWeek": 1152,
+    "timeMonth": 1317,
+    "timeYear": 740,
     "dailyMinutesDown": {}
   },
   {
@@ -86,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/squash.coprs.esa-copernicus.eu.ico",
     "slug": "squash",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 795,
-    "timeDay": 861,
-    "timeWeek": 700,
-    "timeMonth": 809,
-    "timeYear": 790,
+    "timeDay": 836,
+    "timeWeek": 737,
+    "timeMonth": 818,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2023-10-10": 52
     }
