@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/artifactory.coprs.esa-copernicus.eu.ico",
     "slug": "artifactory",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 722,
-    "timeDay": 788,
-    "timeWeek": 694,
-    "timeMonth": 768,
-    "timeYear": 725,
+    "timeDay": 783,
+    "timeWeek": 726,
+    "timeMonth": 771,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2023-09-04": 102,
       "2023-01-25": 17,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 987,
-    "timeWeek": 793,
-    "timeMonth": 919,
-    "timeYear": 728,
+    "time": 727,
+    "timeDay": 1064,
+    "timeWeek": 842,
+    "timeMonth": 922,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
-    "timeDay": 630,
-    "timeWeek": 589,
-    "timeMonth": 650,
-    "timeYear": 579,
+    "timeDay": 781,
+    "timeWeek": 612,
+    "timeMonth": 655,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 1876,
-    "timeWeek": 1293,
-    "timeMonth": 1317,
-    "timeYear": 750,
+    "time": 729,
+    "timeDay": 1815,
+    "timeWeek": 1376,
+    "timeMonth": 1319,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 794,
-    "timeDay": 953,
-    "timeWeek": 802,
-    "timeMonth": 815,
-    "timeYear": 791,
+    "time": 795,
+    "timeDay": 1139,
+    "timeWeek": 845,
+    "timeMonth": 816,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2023-10-10": 52
     }
