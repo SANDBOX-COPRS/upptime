@@ -11,8 +11,9 @@ sites:
     url: https://sonarqube-dev.coprs.esa-copernicus.eu
   - name: Vault
     url: https://vault.coprs.esa-copernicus.eu
-  - name: Squash
-    url: https://squash.coprs.esa-copernicus.eu/squash 
+# Squash has been shutdown
+#  - name: Squash
+#    url: https://squash.coprs.esa-copernicus.eu/squash 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
