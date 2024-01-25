@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 713,
-    "timeDay": 561,
-    "timeWeek": 679,
-    "timeMonth": 662,
-    "timeYear": 716,
+    "timeDay": 791,
+    "timeWeek": 703,
+    "timeMonth": 663,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2023-12-11": 26,
-      "2023-09-04": 102,
-      "2023-01-25": 17
+      "2023-09-04": 102
     }
   },
   {
@@ -32,14 +31,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 573,
-    "timeWeek": 761,
-    "timeMonth": 752,
-    "timeYear": 744,
-    "dailyMinutesDown": {
-      "2023-01-25": 16
-    }
+    "time": 736,
+    "timeDay": 943,
+    "timeWeek": 795,
+    "timeMonth": 757,
+    "timeYear": 745,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SonarQube Dev",
@@ -53,13 +50,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
-    "timeDay": 428,
-    "timeWeek": 571,
-    "timeMonth": 611,
-    "timeYear": 590,
-    "dailyMinutesDown": {
-      "2023-01-25": 16
-    }
+    "timeDay": 630,
+    "timeWeek": 593,
+    "timeMonth": 606,
+    "timeYear": 591,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vault",
@@ -72,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 1187,
-    "timeWeek": 1322,
-    "timeMonth": 1265,
-    "timeYear": 855,
+    "time": 810,
+    "timeDay": 1522,
+    "timeWeek": 1382,
+    "timeMonth": 1264,
+    "timeYear": 858,
     "dailyMinutesDown": {}
   }
 ]
