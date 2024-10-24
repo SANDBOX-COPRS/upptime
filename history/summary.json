@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 649,
-    "timeDay": 479,
-    "timeWeek": 624,
-    "timeMonth": 574,
+    "timeDay": 581,
+    "timeWeek": 628,
+    "timeMonth": 581,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2023-12-11": 26
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 756,
-    "timeDay": 575,
-    "timeWeek": 817,
-    "timeMonth": 716,
-    "timeYear": 753,
+    "timeDay": 708,
+    "timeWeek": 828,
+    "timeMonth": 720,
+    "timeYear": 754,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 582,
-    "timeDay": 401,
-    "timeWeek": 594,
-    "timeMonth": 552,
+    "timeDay": 444,
+    "timeWeek": 580,
+    "timeMonth": 555,
     "timeYear": 574,
     "dailyMinutesDown": {}
   },
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.coprs.esa-copernicus.eu.ico",
     "slug": "vault",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1100,
-    "timeDay": 1014,
-    "timeWeek": 1289,
-    "timeMonth": 1233,
-    "timeYear": 1212,
+    "time": 1102,
+    "timeDay": 1479,
+    "timeWeek": 1340,
+    "timeMonth": 1253,
+    "timeYear": 1213,
     "dailyMinutesDown": {}
   }
 ]
