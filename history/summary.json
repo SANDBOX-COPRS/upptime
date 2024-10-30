@@ -4,18 +4,19 @@
     "url": "https://artifactory.coprs.esa-copernicus.eu",
     "icon": "https://icons.duckduckgo.com/ip3/artifactory.coprs.esa-copernicus.eu.ico",
     "slug": "artifactory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 649,
     "timeDay": 395,
     "timeWeek": 608,
     "timeMonth": 578,
     "timeYear": 613,
     "dailyMinutesDown": {
+      "2024-10-30": 0,
       "2023-12-11": 26
     }
   },
@@ -44,18 +45,16 @@
     "slug": "sonar-qube-dev",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 583,
     "timeDay": 584,
     "timeWeek": 584,
     "timeMonth": 560,
     "timeYear": 573,
-    "dailyMinutesDown": {
-      "2024-10-30": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vault",
