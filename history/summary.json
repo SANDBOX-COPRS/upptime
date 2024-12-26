@@ -4,18 +4,19 @@
     "url": "https://artifactory.coprs.esa-copernicus.eu",
     "icon": "https://icons.duckduckgo.com/ip3/artifactory.coprs.esa-copernicus.eu.ico",
     "slug": "artifactory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 626,
     "timeDay": 527,
     "timeWeek": 495,
     "timeMonth": 520,
     "timeYear": 586,
     "dailyMinutesDown": {
+      "2024-12-26": 2,
       "2024-10-30": 25
     }
   },
@@ -24,28 +25,30 @@
     "url": "https://sonarqube.coprs.esa-copernicus.eu",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.coprs.esa-copernicus.eu.ico",
     "slug": "sonar-qube",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 743,
+    "time": 742,
     "timeDay": 617,
     "timeWeek": 638,
     "timeMonth": 648,
     "timeYear": 717,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-26": 1
+    }
   },
   {
     "name": "SonarQube Dev",
     "url": "https://sonarqube-dev.coprs.esa-copernicus.eu",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube-dev.coprs.esa-copernicus.eu.ico",
     "slug": "sonar-qube-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 576,
@@ -53,24 +56,28 @@
     "timeWeek": 465,
     "timeMonth": 530,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-26": 1
+    }
   },
   {
     "name": "Vault",
     "url": "https://vault.coprs.esa-copernicus.eu",
     "icon": "https://icons.duckduckgo.com/ip3/vault.coprs.esa-copernicus.eu.ico",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1162,
+    "time": 1163,
     "timeDay": 996,
     "timeWeek": 1038,
     "timeMonth": 1163,
     "timeYear": 1191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-26": 0
+    }
   }
 ]
