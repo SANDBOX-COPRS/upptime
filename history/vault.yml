@@ -1,7 +1,7 @@
 url: https://vault.coprs.esa-copernicus.eu
-status: down
-code: 500
-responseTime: 15841
-lastUpdated: 2025-03-12T18:32:42.997Z
+status: up
+code: 200
+responseTime: 1745
+lastUpdated: 2025-03-12T21:22:22.457Z
 startTime: 2022-04-06T10:55:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
