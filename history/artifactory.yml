@@ -1,7 +1,7 @@
 url: https://artifactory.coprs.esa-copernicus.eu
-status: down
-code: 503
-responseTime: 1897
-lastUpdated: 2025-03-12T18:31:44.720Z
+status: up
+code: 200
+responseTime: 643
+lastUpdated: 2025-03-12T21:22:16.331Z
 startTime: 2022-04-06T10:55:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
